@@ -7,7 +7,7 @@ import netlify from '@astrojs/netlify';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://serverlessworkflow.io/',
+  site: 'https://open-workflow-specification.org/',
   integrations: [mdx(), sitemap()],
   markdown: {
     syntaxHighlight: 'shiki',
