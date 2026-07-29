@@ -1,5 +1,5 @@
 {
-  "$id": "https://serverlessworkflow.io/schemas/1.0.0-alpha3/workflow.json",
+  "$id": "https://open-workflow-specification.org/schemas/1.0.0-alpha3/workflow.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "description": "Serverless Workflow DSL - Workflow Schema.",
   "type": "object",
