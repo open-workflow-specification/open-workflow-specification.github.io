@@ -1,6 +1,6 @@
 # Open Workflow Specification Website Repository
 
-This repository hosts the website for the [Open Workflow Specification](https://github.com/serverlessworkflow/specification) project at [https://serverlessworkflow.io](https://serverlessworkflow.io).
+This repository hosts the website for the [Open Workflow Specification](https://github.com/serverlessworkflow/specification) project at [https://open-workflow-specification.org](https://open-workflow-specification.org).
 
 ## 🧑 Contributing to the website
 
