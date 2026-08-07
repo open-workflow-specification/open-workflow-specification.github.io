@@ -14,7 +14,7 @@ I'm excited to share some important updates regarding the TypeScript SDK for the
 
 For those of you who have been working with version 0.9 of the spec and wish to continue using it, we've created a **legacy branch** in our GitHub repository. This branch is for developers who want to maintain the older version, even though our organization will not officially support it moving forward.
 
-You can find the legacy branch here: [Serverless Workflow TypeScript SDK - Legacy spec 0.9 Branch](https://github.com/serverlessworkflow/sdk-typescript/tree/legacy-spec-0.9)
+You can find the legacy branch here: [Serverless Workflow TypeScript SDK - Legacy spec 0.9 Branch](https://github.com/open-workflow-specification/sdk-typescript/tree/legacy-spec-0.9)
 
 ### NPM Package for the Legacy Version
 
@@ -32,7 +32,7 @@ This package will retain the older naming and organizational structure to mainta
 
 Moving forward, all new packages will be released under the correct (organization) name `@serverlessworkflow/sdk`. This change not only corrects a previous error but also aligns with the updated versioning of the spec. 
 
-The version 1.0.0-alpha is still a [work in progress](https://github.com/serverlessworkflow/sdk-typescript/pull/188). It will be released once it is ready and will feature all the enhancements and updates introduced with the rewritten specification.
+The version 1.0.0-alpha is still a [work in progress](https://github.com/open-workflow-specification/sdk-typescript/pull/188). It will be released once it is ready and will feature all the enhancements and updates introduced with the rewritten specification.
 
 ## Why This Matters
 

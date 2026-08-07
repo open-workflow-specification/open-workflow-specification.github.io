@@ -33,13 +33,13 @@ Upgrading to the new version is straightforward:
 
 1. Update your project to use the new `v3` path:
    ```bash
-   go get github.com/serverlessworkflow/sdk-go/v3
+   go get github.com/open-workflow-specification/sdk-go/v3
    ```
 
-2. Update your code to accommodate the new DSL and schema changes. Refer to the updated [specification](https://github.com/serverlessworkflow/specification/tree/main/examples) for examples.
+2. Update your code to accommodate the new DSL and schema changes. Refer to the updated [specification](https://github.com/open-workflow-specification/specification/tree/main/examples) for examples.
 
 3. Run your tests and validate your workflows against the new schema to ensure a smooth transition.
 
 ## **Join the Community**
 
-We are proud of what we’ve accomplished with version 3.0.0, and we’re excited to see how you will use it to create innovative solutions. Share your feedback, contributions, and ideas on our [GitHub issue page](https://github.com/serverlessworkflow/sdk-go/issues).
+We are proud of what we’ve accomplished with version 3.0.0, and we’re excited to see how you will use it to create innovative solutions. Share your feedback, contributions, and ideas on our [GitHub issue page](https://github.com/open-workflow-specification/sdk-go/issues).

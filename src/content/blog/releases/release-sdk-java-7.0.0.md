@@ -15,7 +15,7 @@ We're excited to announce the release of the latest Java SDK, version 7.0.0, whi
 
 ## Java SDK example
 
-You can dive right in using [one of the examples](https://github.com/serverlessworkflow/specification/tree/main/examples) available in the specification repository. Here's a quick example to get you started:
+You can dive right in using [one of the examples](https://github.com/open-workflow-specification/specification/tree/main/examples) available in the specification repository. Here's a quick example to get you started:
 
 To use the SDK, simply add it as a dependency to your Maven project:
 
@@ -40,7 +40,7 @@ try (InputStream in = new FileInputStream("simple.yaml")) {
 
 ## Java Reference implementation example 
 
-You can dive right in using [one of the examples](https://github.com/serverlessworkflow/sdk-java/tree/main/examples) available in the implementation repository or by checking the [README](https://github.com/serverlessworkflow/sdk-java/tree/main/impl). 
+You can dive right in using [one of the examples](https://github.com/open-workflow-specification/sdk-java/tree/main/examples) available in the implementation repository or by checking the [README](https://github.com/open-workflow-specification/sdk-java/tree/main/impl). 
 
 Here's a quick example to get you started:
 
@@ -75,16 +75,16 @@ In this release:
 - We updated the latest schema revision. 
 - We improved POJO generation from specification schema by:
      - Fixing generation of POJOs related to the `EventComsuption` strategy. 
-- We released the first documented version of the [reference implementation](https://github.com/serverlessworkflow/sdk-java/tree/main/impl), completing [phase 1](https://github.com/serverlessworkflow/sdk-java/issues/459).
+- We released the first documented version of the [reference implementation](https://github.com/open-workflow-specification/sdk-java/tree/main/impl), completing [phase 1](https://github.com/open-workflow-specification/sdk-java/issues/459).
 
 
 ### Future plans 
 
-Check out our roadmap [here](https://github.com/serverlessworkflow/sdk-java/milestone/2)
+Check out our roadmap [here](https://github.com/open-workflow-specification/sdk-java/milestone/2)
 
 ### Previous Versions and Support for the Specification 0.8
 
-As we move forward, if you encounter any issues with the 5.x series, which supports Specification 0.8, please [open an issue in our repository](https://github.com/serverlessworkflow/sdk-java/issues) so we can track it. While we may release patch versions to address critical issues, please note that no new features will be added, and our resources for maintaining this branch are limited.
+As we move forward, if you encounter any issues with the 5.x series, which supports Specification 0.8, please [open an issue in our repository](https://github.com/open-workflow-specification/sdk-java/issues) so we can track it. While we may release patch versions to address critical issues, please note that no new features will be added, and our resources for maintaining this branch are limited.
 
 For those interested in contributing to the 6.x series, which supports the legacy 0.9 version of the specification, we welcome your efforts. However, we want to emphasize that our primary focus and resources are dedicated to the new 1.0.0 specification, which aligns with the 7.x stream of the Java SDK.
 

@@ -25,7 +25,7 @@ Alternatively, you can add it directly via Cargo:
 cargo add serverless-workflow-sdk@1.0.0-alpha6
 ```
 
-For more information and examples, check out the [GitHub repository](https://github.com/serverlessworkflow/sdk-rust).
+For more information and examples, check out the [GitHub repository](https://github.com/open-workflow-specification/sdk-rust).
 
 ## What’s Included?
 
@@ -42,7 +42,7 @@ As we move toward the full `v1.0.0` release, our focus will be on:
 - Ensuring compatibility with the latest Serverless Workflow specification.
 - Incorporating community feedback to improve the developer experience.
 
-Your input is crucial to making the Rust SDK robust and production-ready. Please share your feedback, report issues, or contribute by visiting our [GitHub repository](https://github.com/serverlessworkflow/sdk-rust).
+Your input is crucial to making the Rust SDK robust and production-ready. Please share your feedback, report issues, or contribute by visiting our [GitHub repository](https://github.com/open-workflow-specification/sdk-rust).
 
 ## Join the Conversation
 

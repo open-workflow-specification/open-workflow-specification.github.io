@@ -10,7 +10,7 @@ description: >-
 
 Hello, Serverless Workflow community! We’re excited to announce **Java SDK 7.2.0.Final**, aligned with **Serverless Workflow Specification 1.0.0**. This release strengthens the developer experience with a **Fluent DSL**, lifecycle hooks, richer HTTP authentication, and numerous quality and dependency updates.
 
-👉 Full release notes: [GitHub – 7.2.0.Final](https://github.com/serverlessworkflow/sdk-java/releases/tag/7.2.0.Final)
+👉 Full release notes: [GitHub – 7.2.0.Final](https://github.com/open-workflow-specification/sdk-java/releases/tag/7.2.0.Final)
 
 ---
 
@@ -99,14 +99,14 @@ String mermaid = new Mermaid().from(wf);
 Path out = MermaidInk.render(mermaid, true, Path.of("workflow.svg")); // true = svg
 ```
 
-> API is evolving; see the [Mermaid module README](https://github.com/serverlessworkflow/sdk-java/tree/main/mermaid) for the latest usage.
+> API is evolving; see the [Mermaid module README](https://github.com/open-workflow-specification/sdk-java/tree/main/mermaid) for the latest usage.
 
 ---
 
 ## Try the examples
 
-* Spec examples: [https://github.com/serverlessworkflow/specification/tree/main/examples](https://github.com/serverlessworkflow/specification/tree/main/examples)
-* SDK examples: [https://github.com/serverlessworkflow/sdk-java/tree/main/examples](https://github.com/serverlessworkflow/sdk-java/tree/main/examples)
+* Spec examples: [https://github.com/open-workflow-specification/specification/tree/main/examples](https://github.com/open-workflow-specification/specification/tree/main/examples)
+* SDK examples: [https://github.com/open-workflow-specification/sdk-java/tree/main/examples](https://github.com/open-workflow-specification/sdk-java/tree/main/examples)
 
 > Note: Example modules are not published to Maven Central; build locally to try them.
 
@@ -114,7 +114,7 @@ Path out = MermaidInk.render(mermaid, true, Path.of("workflow.svg")); // true = 
 
 ## Roadmap & community
 
-* Roadmap/Milestone: [https://github.com/serverlessworkflow/sdk-java/milestone/2](https://github.com/serverlessworkflow/sdk-java/milestone/2)
-* Issues/feedback: [https://github.com/serverlessworkflow/sdk-java/issues](https://github.com/serverlessworkflow/sdk-java/issues)
+* Roadmap/Milestone: [https://github.com/open-workflow-specification/sdk-java/milestone/2](https://github.com/open-workflow-specification/sdk-java/milestone/2)
+* Issues/feedback: [https://github.com/open-workflow-specification/sdk-java/issues](https://github.com/open-workflow-specification/sdk-java/issues)
 
 Thank you to all contributors who helped shape this release. 🎉
