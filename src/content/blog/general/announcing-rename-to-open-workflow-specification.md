@@ -66,8 +66,8 @@ We're excited about this next chapter and look forward to growing the Open Workf
 ## Get Involved
 
 - **Join our Slack**: [#open-workflow on CNCF Slack](https://cloud-native.slack.com/messages/open-workflow)
-- **Star us on GitHub**: [github.com/serverlessworkflow/specification](https://github.com/serverlessworkflow/specification)
-- **Attend our weekly meetings**: [Community Calendar](https://github.com/serverlessworkflow/specification/discussions/799)
-- **Contribute**: Check out our [Contributing Guide](https://github.com/serverlessworkflow/specification/blob/main/contributing.md)
+- **Star us on GitHub**: [github.com/open-workflow-specification/specification](https://github.com/open-workflow-specification/specification)
+- **Attend our weekly meetings**: [Community Calendar](https://github.com/open-workflow-specification/specification/discussions/799)
+- **Contribute**: Check out our [Contributing Guide](https://github.com/open-workflow-specification/specification/blob/main/contributing.md)
 
 Here's to Open Workflow Specification! 🎉

@@ -28,6 +28,6 @@ It’s been half a decade since the first release of the **Serverless Workflow S
 ## 📢 Get Involved 📢
 A heartfelt thank you to the entire community—contributors, maintainers, and adopters—who have shaped and refined this specification over the last five years. We couldn’t have done it without you!
 
-- ➜ **Check out the Official Docs**: https://github.com/serverlessworkflow/specification/blob/main/README.md
+- ➜ **Check out the Official Docs**: https://github.com/open-workflow-specification/specification/blob/main/README.md
 - ➜ **Join the Conversation**: https://cloud-native.slack.com/?redir=%2Fmessages%2Fserverless-workflow
 - ➜ **Contribute**: Your ideas, feedback, and experiences are what keep the Serverless Workflow Specification thriving.
