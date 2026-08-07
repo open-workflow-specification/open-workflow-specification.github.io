@@ -18,7 +18,7 @@ To start using `v1.0.0-alpha5.0`, you can install it via NPM under the correct o
 npm install @serverlessworkflow/sdk@1.0.0-alpha5.0
 ```
 
-For detailed information on how to get started with the SDK, visit the [GitHub repository](https://github.com/serverlessworkflow/sdk-typescript).
+For detailed information on how to get started with the SDK, visit the [GitHub repository](https://github.com/open-workflow-specification/sdk-typescript).
 
 ## What’s Next?
 We are actively working toward the full 1.0.0 release, which will feature comprehensive support for the finalized Serverless Workflow v1.0.0 specification.

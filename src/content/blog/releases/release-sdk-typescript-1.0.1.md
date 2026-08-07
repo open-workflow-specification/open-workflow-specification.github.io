@@ -117,5 +117,5 @@ const graph = buildGraph(workflow);
 
 The latest version of the Serverless Workflow TypeScript SDK makes it easier than ever to visualize and analyze workflows. We invite you to install the update and try out the new features.
 
-🔗 **Repository:** [Serverless Workflow TypeScript SDK](https://github.com/serverlessworkflow/sdk-typescript)
+🔗 **Repository:** [Serverless Workflow TypeScript SDK](https://github.com/open-workflow-specification/sdk-typescript)
 

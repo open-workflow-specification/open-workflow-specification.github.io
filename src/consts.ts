@@ -3,7 +3,7 @@ export const DEFAULT_DESC = `Open Workflow Specification presents a vendor-neutr
 
 export const CURRENT_VERSION = '1.0.3';
 
-export const GITHUB_ORG = 'https://github.com/serverlessworkflow/';
+export const GITHUB_ORG = 'https://github.com/open-workflow-specification/';
 export const GITHUB_LINK = GITHUB_ORG + 'specification/';
 export const SLACK_LINK = 'https://cloud-native.slack.com/messages/open-workflow';
 export const X_TWITTER_LINK = 'https://x.com/cncfworkflow';
