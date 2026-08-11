@@ -50,8 +50,8 @@ Upgrading from v3.x is straightforward — update your imports and run `go get`:
 
    ```go
    // Before
-   import "github.com/open-workflow-specification/sdk-go/v3/parser"
-   import "github.com/open-workflow-specification/sdk-go/v3/impl"
+   import "github.com/serverlessworkflow/sdk-go/v3/parser"
+   import "github.com/serverlessworkflow/sdk-go/v3/impl"
 
    // After
    import "github.com/open-workflow-specification/sdk-go/v4/parser"
