@@ -10,6 +10,54 @@ import OWSEditor from "../components/OWSEditor";
 const examples = (await getCollection('example')).sort((a,b) => a.data.title.localeCompare(b.data.title));
 ---
 <Layout>
+    <!-- Diagram Editor CTA -->
+   <div
+    id="editor-popup"
+    class="hidden fixed bottom-6 right-6 z-50 w-[300px] rounded-box border border-base-300 bg-base-100 p-5 shadow-2xl"
+    >
+      <button
+        id="editor-popup-close"
+        class="btn btn-sm btn-circle btn-ghost absolute right-2 top-2"
+        aria-label="Close"
+        type="button"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+          <path stroke-linecap="round" stroke-linejoin="round" d="m9.75 9.75 4.5 4.5m0-4.5-4.5 4.5M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
+        </svg>
+      </button>
+
+      <div>
+        <h3 class="text-xl font-bold">
+           Meet the Diagram Editor
+        </h3>
+        <p class="mt-1 text-sm opacity-80">
+          Visualize and explore workflows with our interactive editor.
+        </p>
+        <a
+          href="https://openworkflow-editor.netlify.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn btn-primary btn-sm mt-4"
+        >
+          Try the Editor 
+        </a>
+      </div>
+    </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const popup = document.getElementById("editor-popup");
+        const closeButton = document.getElementById("editor-popup-close");
+        if (!popup) return;
+        setTimeout(() => {
+          popup.classList.remove("hidden");
+        }, 2000);
+        closeButton?.addEventListener("click", () => {
+          popup?.remove();
+        });
+      });
+    </script>
+
   <!-- Hero -->
   <div class="hero min-h-[60vh]">
     <div class="relative h-full w-full bg-base-200 bg-[linear-gradient(to_right,#8080800a_1px,transparent_1px),linear-gradient(to_bottom,#8080800a_1px,transparent_1px)] bg-[size:14px_24px]">
