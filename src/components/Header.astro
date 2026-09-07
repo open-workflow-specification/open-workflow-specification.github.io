@@ -1,4 +1,5 @@
 ---
+import { EDITOR_URL } from '../consts';
 import ThemeIcon from './ThemeIcon.astro';
 ---
 <div class="bg-base-100 sticky top-0 z-10">
@@ -11,7 +12,7 @@ import ThemeIcon from './ThemeIcon.astro';
       </div>
       <div class="navbar-end">
           <ul class="menu menu-horizontal px-1">
-              <li><a href="https://openworkflow-editor.netlify.app/" target="_blank">Playground</a></li>
+              <li><a href={EDITOR_URL} target="_blank">Try the Editor</a></li>
               <li><a href="/blog">Blog</a></li>
               <li><a href="/community">Community</a></li>
           </ul>
