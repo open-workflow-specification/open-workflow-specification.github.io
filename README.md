@@ -1,4 +1,6 @@
 # Open Workflow Specification Website Repository
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopen-workflow-specification%2Fopen-workflow-specification.github.io.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopen-workflow-specification%2Fopen-workflow-specification.github.io?ref=badge_shield)
+
 
 This repository hosts the website for the [Open Workflow Specification](https://github.com/open-workflow-specification/specification) project at [https://open-workflow-specification.org](https://open-workflow-specification.org).
 
@@ -38,3 +40,7 @@ docker compose up --remove-orphans --watch
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopen-workflow-specification%2Fopen-workflow-specification.github.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopen-workflow-specification%2Fopen-workflow-specification.github.io?ref=badge_large)
