@@ -1,5 +1,5 @@
 ---
-import { CURRENT_VERSION, GITHUB_LINK, GITHUB_ORG } from '../consts';
+import { CURRENT_VERSION, GITHUB_LINK, GITHUB_ORG, EDITOR_URL} from '../consts';
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
 import Section from '../components/Section.astro';
@@ -34,7 +34,7 @@ const examples = (await getCollection('example')).sort((a,b) => a.data.title.loc
           Visualize and explore workflows with our interactive editor.
         </p>
         <a
-          href="https://openworkflow-editor.netlify.app/"
+          href={EDITOR_URL}
           target="_blank"
           rel="noopener noreferrer"
           class="btn btn-primary btn-sm mt-4"

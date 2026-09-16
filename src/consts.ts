@@ -10,4 +10,4 @@ export const X_TWITTER_LINK = 'https://x.com/cncfworkflow';
 export const LINKEDIN_LINK = 'https://www.linkedin.com/company/serverless-workflow/posts';
 export const DEV_MAILING_LIST_LINK = 'mailto:cncf-serverlessws-maintainers@lists.cncf.io';
 export const RSS_LINK = '/rss.xml';
-export const EDITOR_URL = "https://openworkflow-editor.netlify.app/";
+export const EDITOR_URL = " https://open-workflow-specification.github.io/editor/latest";
