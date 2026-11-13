@@ -1,7 +1,7 @@
 export const DEFAULT_TITLE = 'Open Workflow Specification';
 export const DEFAULT_DESC = `Open Workflow Specification presents a vendor-neutral, open-source, and entirely community-driven ecosystem for defining and executing DSL-based workflows.`;
 
-export const CURRENT_VERSION = '1.0.3';
+export const CURRENT_VERSION = '1.1.0';
 
 export const GITHUB_ORG = 'https://github.com/open-workflow-specification/';
 export const GITHUB_LINK = GITHUB_ORG + 'specification/';
